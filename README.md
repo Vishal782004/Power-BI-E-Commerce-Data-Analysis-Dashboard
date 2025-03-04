@@ -14,7 +14,7 @@ The interactive dashboard is designed to be used by Sellers and provide them wit
 ## Objective
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-- the dataset can be accessed from this link:[ E-commerece sales dataset ](https://github.com/tejas79883/Power-BI-E-Commerce-Data-Analysis-Dashboard/files/13893796/E-commerece.sales.xlsx)
+- the dataset can be accessed from this link:[ E-commerece sales dataset ](https://github.com/Vishal782004/Power-BI-E-Commerce-Data-Analysis-Dashboard/blob/main/E-commerece%20sales%20dataset.xlsx)
 ## Process
 To help supermarkets achieve their goals for growth, efficiency, and customer satisfaction, I can assist in several ways.
 
