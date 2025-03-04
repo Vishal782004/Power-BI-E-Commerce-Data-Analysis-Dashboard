@@ -3,7 +3,7 @@
 
 ![ECommerce Dashboard-1](https://github.com/Vishal782004/Power-BI-E-Commerce-Data-Analysis-Dashboard/blob/main/ECommerce%20Dashboard-1.png)
 
-![ECommerce Dashboard f-1](https://github.com/Vishal782004/Power-BI-E-Commerce-Data-Analysis-Dashboard/blob/main/ECommerce%20Dashboard.pbix)
+![ECommerce Dashboard f-1](https://github.com/Vishal782004/Power-BI-E-Commerce-Data-Analysis-Dashboard/blob/main/ECommerce%20Dashboard-2.png)
 
 The interactive dashboard is designed to be used by Sellers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and market wise growth rates.
 
